@@ -52,119 +52,119 @@ The dashboard provides a complete overview of sales performance through interact
 ---
 
 # 📂 Repository Structure
+<img width="196" height="260" alt="Screenshot 2026-06-06 010702" src="https://github.com/user-attachments/assets/7fe19e99-844b-46c8-96c0-5a14a924fcc6" />
 
-```bash
-FUTURE_DS_01/
-│
-├── dashboard/
-│   ├── task-1.pbix
-│   └── dashboard.png
-│
-├── dataset/
-│   └── data.xlsx
-│
-├── insights/
-│   └── key_insights.md
-│
-└── README.md
+
 📷 Dashboard Preview
+
 🖥️ E-Commerce Sales Performance Dashboard
-<img width="765" height="430" alt="dashboard" src="https://github.com/user-attachments/assets/85dd08e8-8d95-4518-b74c-f2beebeb6382" />
 
+![Dashboard Preview](dashboard/dashboard.png)
 
-📈 Dashboard KPIs
-KPI	Value
-💰 Total Revenue	20.97M
-🛒 Total Orders	40K
-👥 Total Customers	6K
-📦 Products Sold	11M
+# 📈 Dashboard KPIs
 
+| KPI              | Value  |
+|------------------|--------|
+| 💰 Total Revenue | 20.97M |
+| 🛒 Total Orders  | 40K    |
+| 👥 Total Customers | 6K   |
+| 📦 Products Sold | 11M    |
 
-📊 Dashboard Features
-🔹 Revenue Over Time
-Consistent growth from 2009–2011
+---
 
-Seasonal peaks in Q4 (holiday shopping)
+# 📊 Dashboard Features
 
-Revenue dips in Q1 (Jan–Feb)
+### 🔹 Revenue Over Time
+- Consistent growth from 2009–2011  
+- Seasonal peaks in Q4 (holiday shopping)  
+- Revenue dips in Q1 (Jan–Feb)  
 
-🔹 Revenue by Country
-UK dominates with 8.2M+ revenue
+### 🔹 Revenue by Country
+- UK dominates with 8.2M+ revenue  
+- Germany & France are secondary markets  
 
-Germany & France are secondary markets
+### 🔹 Customers by Country
+- UK contributes 90%+ of customer base  
+- Highest repeat purchasing in UK  
 
-🔹 Customers by Country
-UK contributes 90%+ of customer base
+### 🔹 Products Sold
+- WORLD WAR items: 54K+ units  
+- JUMBO BAG series: 47K+ units  
+- Affordable products (£1–£3) drive bulk sales  
 
-Highest repeat purchasing in UK
+---
 
-🔹 Products Sold
-WORLD WAR items: 54K+ units
+# 💡 Business Recommendations
 
-JUMBO BAG series: 47K+ units
+- ✅ Run Q4 holiday campaigns aggressively  
+- ✅ Stock WORLD WAR & JUMBO BAG before November  
+- ✅ Expand marketing to Germany & France  
+- ✅ Introduce bundle offers on top products  
+- ✅ Launch loyalty program for UK customers  
+- ✅ Optimize pricing for £1–£3 range products  
 
-Affordable products (£1–£3) drive bulk sales
+---
 
-💡 Business Recommendations
-✅ Run Q4 holiday campaigns aggressively
-✅ Stock WORLD WAR & JUMBO BAG before November
-✅ Expand marketing to Germany & France
-✅ Introduce bundle offers on top products
-✅ Launch loyalty program for UK customers
-✅ Optimize pricing for £1–£3 range products
+# 🧹 Data Cleaning & Transformation
 
-🧹 Data Cleaning & Transformation
-Removed duplicate records
+- Removed duplicate records  
+- Filtered cancelled invoices (prefix "C")  
+- Removed null Customer IDs  
+- Filtered negative quantities  
+- Converted Invoice Date to proper format  
+- Removed zero/negative unit prices  
 
-Filtered cancelled invoices (prefix "C")
+---
 
-Removed null Customer IDs
+# 📚 Skills Gained
 
-Filtered negative quantities
+- ✅ Business Analytics  
+- ✅ KPI Analysis  
+- ✅ Dashboard Development  
+- ✅ Data Cleaning  
+- ✅ Power BI Visualization  
+- ✅ Insight Generation  
+- ✅ Data Transformation  
+- ✅ Business Reporting  
 
-Converted Invoice Date to proper format
+---
 
-Removed zero/negative unit prices
+# 🚀 Project Outcome
 
-📚 Skills Gained
-✅ Business Analytics
-✅ KPI Analysis
-✅ Dashboard Development
-✅ Data Cleaning
-✅ Power BI Visualization
-✅ Insight Generation
-✅ Data Transformation
-✅ Business Reporting
+- ✔ Delivered a professional interactive dashboard  
+- ✔ Generated actionable insights for business growth  
+- ✔ Supported data-driven decision-making  
+- ✔ Portfolio-ready project for internship evaluation  
 
-🚀 Project Outcome
-✔ Delivered a professional interactive dashboard
-✔ Generated actionable insights for business growth
-✔ Supported data-driven decision-making
-✔ Portfolio-ready project for internship evaluation
+---
 
-⚠️ Challenges Faced
-Handling inconsistent data
+# ⚠️ Challenges Faced
 
-Managing large datasets
+- Handling inconsistent data  
+- Managing large datasets  
+- Designing effective visualizations  
+- Balancing dashboard aesthetics with clarity  
 
-Designing effective visualizations
+---
 
-Balancing dashboard aesthetics with clarity
+# 📌 Future Improvements
 
-📌 Future Improvements
-Predictive sales forecasting
+- Predictive sales forecasting  
+- Customer segmentation analysis  
+- AI-based recommendation systems  
+- Real-time dashboard integration  
 
-Customer segmentation analysis
+---
 
-AI-based recommendation systems
+# 👨‍💻 Author
 
-Real-time dashboard integration
+**Deepak**  
+🎓 B.Tech in Artificial Intelligence  
+🏫 Student, 
 
-👨‍💻 Author
-Deepak
-🎓 B.Tech in Artificial Intelligence
-🏫 Student,
+---
 
-⭐ Acknowledgement
-This project was completed as part of the Future Interns – Data Science & Analytics Internship Program.
-Special thanks to mentors and peers for guidance and support.
+# ⭐ Acknowledgement
+
+This project was completed as part of the **Future Interns – Data Science & Analytics Internship Program**.  
+Special thanks to mentors and peers for guidance and support.  
