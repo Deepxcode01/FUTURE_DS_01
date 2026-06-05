@@ -160,7 +160,7 @@ The dashboard provides a complete overview of sales performance through interact
 
 **Deepak**  
 🎓 B.Tech in Artificial Intelligence  
-🏫 Student, 
+🏫 Delhi Skill and Entrepreneurship University (DSEU)
 
 ---
 
