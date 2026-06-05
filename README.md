@@ -79,13 +79,6 @@ FUTURE_DS_01/
 
 ---
 
-
-📷 Dashboard Preview
-
-🖥️ E-Commerce Sales Performance Dashboard
-
-![Dashboard Preview](dashboard/dashboard.png)
-
 # 📈 Dashboard KPIs
 
 | KPI              | Value  |
