@@ -52,7 +52,32 @@ The dashboard provides a complete overview of sales performance through interact
 ---
 
 # 📂 Repository Structure
-<img width="196" height="260" alt="Screenshot 2026-06-06 010702" src="https://github.com/user-attachments/assets/7fe19e99-844b-46c8-96c0-5a14a924fcc6" />
+
+```bash
+FUTURE_DS_01/
+│
+├── dashboard/
+│   ├── task-1.pbix
+│   └── dashboard.png
+│
+├── dataset/
+│   └── data.xlsx
+│
+├── insights/
+│   └── key_insights.md
+│
+└── README.md
+```
+
+---
+
+# 📷 Dashboard Preview
+
+## 🖥️ E-Commerce Sales Performance Dashboard
+
+![Dashboard Preview](dashboard/dashboard.png)
+
+---
 
 
 📷 Dashboard Preview
